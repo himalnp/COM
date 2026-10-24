@@ -1,0 +1,6 @@
+{
+  "name": "Surkhet Computer Institute & Coaching Center",
+  "description": "Official portal of Surkhet Computer Institute & Coaching Center Pvt. Ltd., Birendranagar-8, Surkhet. Vocational training, past question paper bank, photo gallery, and campus admissions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
